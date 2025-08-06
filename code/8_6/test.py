@@ -1,4 +1,7 @@
-
+# All rights reserved.
+# 时间： 8.6
+# 功能： 实现了对四个桨叶施加力和力矩，cf2x无人机控制，自主上升
+# SPDX-License-Identifier: BSD-3-Clause
 import argparse
 
 from isaaclab.app import AppLauncher
